@@ -5,6 +5,7 @@ public class AdditionOfNumber{
     Scanner input=new Scanner(System.in);
     System.out.print("Enter number 1st-");
     int num1=input.nextInt();
+    
     System.out.print("Enter number 2nd-");
     int num2=input.nextInt();
     System.out.println("sum =" + (num1+num2));
