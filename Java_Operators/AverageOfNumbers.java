@@ -5,6 +5,7 @@ public class AverageOfNumbers{
    Scanner input=new Scanner(System.in);
    System.out.println("enter first number: ");
    int num1=input.nextInt();
+  
 
     System.out.println("enter Second number: ");
    int num2=input.nextInt();
