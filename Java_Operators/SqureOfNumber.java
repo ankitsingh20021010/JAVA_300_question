@@ -5,6 +5,7 @@ public class SquareOfNumber{
     System.out.print("Enter a number- ");
     int num=input.nextInt();
     System.out.println("Squre of number = " + (num * num));
+    
 
   }
 }
