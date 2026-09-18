@@ -1,6 +1,6 @@
 //WAP to print --> 12345 next 5 line same number 12345
 
-public class Pattern{
+public class Pattern1{
 public static void main(String[]args){
   int NumofRows=5;
   for(int i=1; i<=NumofRows; i++){
